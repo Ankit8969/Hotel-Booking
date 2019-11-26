@@ -1,0 +1,50 @@
+.navbarsection
+{
+  background-color: #1abc9c;
+}
+
+.container-fluid
+{
+  padding:0px;
+}
+li
+{
+  padding-right: 15px;
+}
+.firstphoto
+{
+  background-image: url("hotel.jpg");
+  background-size: cover;
+}
+.photosection
+{
+  padding:10% 0%;
+  text-align: center;
+  background-color: black;
+  color:white;
+  opacity: 0.8;
+}
+.place
+{
+  text-align: center;
+  padding: 7% 15%;
+}
+.carouselsection
+{
+  padding: 3% 15%;
+  text-align: center;
+}
+#text
+{
+  padding: 3% 10%;
+  background-color: #e6f8f9;
+}
+#footer
+{
+  margin-top: 4%;
+  text-align: center;
+  padding-top: 1%;
+  background-color: #1abc9c;
+  height:60px;
+  color:white;
+}
